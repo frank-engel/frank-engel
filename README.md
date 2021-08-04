@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚙️ I use often: `.py`, `.m`, `.json`, `.yml`, `opencv`, `numpy`, `scipy`, `pandas`
 - 🌱 Learning and studying: **Agile, Project Management, SciComm, Data Viz**
 - 🌍 I love to teach and communicate about: **tech, science communication, and earth science**
-- 💬 Reach out to me about: **Cameras, Raspberry Pi, 3D Printing, diversity & inclusion, teaching**
+- 💬 Reach out to me about: **cameras, phtography, computer vision, Raspberry Pi, 3D Printing, diversity & inclusion, teaching**
 - 💜 Interests: **gravel biking, camping, nerdy tech, reading, religion, politics, scifi**
 
 **Find me at:**
