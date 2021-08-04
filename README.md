@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi! I'm Frank Engel (he/him/his)
 
 <!--
 **frank-engel-usgs/frank-engel-usgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**👋 Hi! I'm Frank Engel (he/him/his), and I'm a Geographer at the U.S. Geological Survey based in San Antonio, Texas. This is my personal GitHub.**
+**I'm a Geographer at the U.S. Geological Survey based in San Antonio, Texas. This is my personal GitHub.**
 
 - 🏢 I am working on integrating IoT, camera and computer vision tech into the USGS observation network
 - ⚙️ I use often: `.py`, `.m`, `.json`, `.yml`, `opencv`, `numpy`, `scipy`, `pandas`
