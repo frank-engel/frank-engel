@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 **Find me at:**
 
 - My professional profile over at [USGS](https://profile.usgs.gov/fengel)
-- Tweeting about scicomm, govtech, rivers, religion, and occasionally politics at [Twitter](https://twitter.com/sandcountyfrank) (_opinions my own_)
-
-
