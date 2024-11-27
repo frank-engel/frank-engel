@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 **Find me at:**
 
-- My professional profile over at [USGS](https://profile.usgs.gov/fengel)
+- My professional profile over at [USGS](https://www.usgs.gov/staff-profiles/frank-l-engel)
 - My personal profile here on [GitHub](https://frank-engel.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/frank-engel-geographer)
